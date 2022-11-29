@@ -1,0 +1,77 @@
+{
+  "shoes": [
+    {
+      "id": 1,
+      "title": "Nike Air Max 270",
+      "gender": "men",
+      "brand": "nike",
+      "category": "street",
+      "price": 8000,
+      "images": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/skwgyqrbfzhu6uyeh0gg/air-max-270-shoes-Kqzbp7.png"
+    },
+    {
+      "id": 2,
+      "title": "Puma Air Zoom Pegasus 39 Shield",
+      "gender": "men",
+      "brand": "puma",
+      "category": "running",
+      "price": 15000,
+      "images": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7e7a0763-295b-457f-90fd-365fdfa135ed/air-zoom-pegasus-39-shield-mens-weatherized-road-running-shoes-MNDLg2.png"
+    },
+    {
+      "id": 3,
+      "title": "New Balance MX608V5",
+      "gender": "men",
+      "brand": "new balance",
+      "category": "training",
+      "price": 15000,
+      "images": "https://nb.scene7.com/is/image/NB/mx608wn5_nb_02_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=944&hei=944"
+    },
+    {
+      "id": 4,
+      "title": "New BalanceFresh Foam X More v4",
+      "gender": "men",
+      "brand": "new balance",
+      "category": "running",
+      "price": 15000,
+      "images": "https://nb.scene7.com/is/image/NB/mmorwt4_nb_05_i?$pdpflexf22x$&qlt=80&fmt=webp&wid=944&hei=944"
+    },
+    {
+      "id": 5,
+      "title": "Nike ZoomX Vaporfly NEXT% 2",
+      "gender": "woman",
+      "brand": "nike",
+      "category": "running",
+      "price": 20000,
+      "images": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9536cd43-b662-43dd-851e-eab8247a9689/zoomx-vaporfly-next-2-womens-road-racing-shoes-Dbqd8h.png"
+    },
+    {
+      "title": "adidas",
+      "gender": "women",
+      "brand": "puma",
+      "category": "running",
+      "price": 9000,
+      "images": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_450,h_450/global/195337/11/sv01/fnd/EEA/fmt/png",
+      "id": 6
+    },
+    {
+      "title": "Jama",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "email": "jama_a@mail.ru",
+      "password": "$2a$10$kV8yDyEQK.XVjryXn/TobOlLrLJys1wCUP51MJjNensagBQJ8ETei",
+      "id": 1
+    },
+    {
+      "email": "jama@mail.ru",
+      "password": "$2a$10$CEr33Y2qwQFLbkedWG8Sze7KSOCntX9eGbPLDS9RdnaTw/jRtlLUq",
+      "id": 2
+    }
+  ],
+  "login": [
+    
+  ]
+}
